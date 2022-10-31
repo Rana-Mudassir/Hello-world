@@ -1,8 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# First Microverse Project
 
-> First Microverse Project
+> This project has has a title element with styling.
+
+Follwing Cahnges are made:
+external CSS is linked to HTML using the tag.
+node_modules added in .gitignore file.
 
 
 ## Built With
@@ -17,20 +21,11 @@
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
+About Project:
 
-To get a local copy up and running follow these simple example steps.
+Simple Html & CSS project for Microverse first task. 
 
-### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
